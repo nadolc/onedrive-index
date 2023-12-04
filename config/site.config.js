@@ -38,7 +38,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/iRedScarf/onedrive-index',
+      link: 'https://github.com/nadolc/onedrive-index',
     },
   ],
 
